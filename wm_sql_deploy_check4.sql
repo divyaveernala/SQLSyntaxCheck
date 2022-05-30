@@ -1,0 +1,1 @@
+insert into TEST_UAT_TO_DEV.WM_SQL_DEPLOY_CHECK (id , name) values (14, 'monday'),(12,'tuesday');
